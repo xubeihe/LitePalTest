@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="BookStore"></dbname>
+    <versoin value="1"></versoin>
+    <list>
+        <mqppint class="com.example.litepaltest.Book"></mqppint>
+        <mqppint class="com.example.litepaltest.Category"></mqppint>
+
+    </list>
+</litepal>
